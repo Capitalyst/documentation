@@ -15,35 +15,14 @@
 - These tools often lack features that provide consistent reminders and behavioral nudges necessary for maintaining financial goals.
 - The lack of engaging and motivational elements can lead to users losing interest and straying from their financial plans.
 
-Traditional Financial Planning Applications possess complexities and lack of Personalized Advice. This involves difficulty in Tracking Finances, limited Access to Expert Knowledge and Inconsistent Financial Discipline:**
+Our goal is to design and implement a tool that analyzes users' financial data, discerns their goals, and prioritizes them, with stringent security measures to ensure the confidentiality and integrity of the users’ financial data.
 
-1. **Automated Analysis of Financial Data:**
-   - The tool simplifies financial planning by automatically analyzing the user's financial data, removing the complexity of manual calculations and tracking.
+WiseVault is an Automated financial planning ecosystem that utilizes AI to assist users in efficiently managing their finances. By analyzing spending habits, offering budgeting advice, and giving personalized tips, it helps to optimize financial well-being. Financial planning plays a vital role in helping individuals achieve their financial goals, manage risks, build wealth, and secure a stable financial future. Recognizing that many individuals struggle to manage their finances due to time constraints, our app provides users with accessibility, personalized services, risk management, and educational resources to support them in reaching these objectives. WiseVault provides a comprehensive approach to money management through its user-friendly features such as portfolio management, expense tracking, and future planning. The app includes an AI-driven chatbot, detailed analytics, payment reminders, money-saving suggestions, and personalized recommendations, making financial management simple and fulfilling.
 
-2. **Personalized Recommendations:**
-   - Using generative AI, the tool identifies users' specific financial goals and priorities, providing customized strategies that fit their unique situations.
-
-3. **Comprehensive Financial Tracking:**
-   - Features like budget tracking, goal setting, investment portfolio management, and retirement planning help users monitor all aspects of their finances in one place.
-
-4. **Affordable Expert-Like Advice:**
-   - The AI-powered tool offers professional-level financial advice at a fraction of the cost of hiring a personal financial advisor, making expert guidance more accessible.
-
-5. **Enhanced Financial Discipline:**
-   - By setting and monitoring financial goals, the tool helps users stay disciplined and make informed decisions, ensuring they remain on track to achieve long-term financial success.
-   -
-Traditional payment methods have long suffered from issues of limited accessibility and availability, particularly in the context of executing government welfare schemes and conducting large-scale monetary transactions. These problems have given rise to corruption, a lack of transparency, and the misappropriation of allocated funds. While the introduction of online transactions and Unified Payments Interface (UPI) has addressed some of these issues, a significant portion of the rural population still lacks access to bank accounts and reliable internet connectivity. As a result, the money allocated for government scheme beneficiaries often goes astray or falls into the wrong hands due to the involvement of multiple intermediaries. Additionally, some beneficiaries struggle to utilize the funds for their intended purposes.
-
-This problem also extends to corporate companies, which face challenges in efficiently managing employee allowances. While the newly launched e-RUPI system holds promise as a potential solution, the absence of a centralized software platform for managing, distributing, and redeeming e-RUPI vouchers hinders widespread adoption of this digital mechanism in India. Therefore, there is an urgent need for a user-friendly digital payment system that not only streamlines payment processes and enhances transparency but also improves accessibility, ensures accountability, facilitates e-voucher management, and offers offline capabilities.
-
-eZ-RUPI is a product suite we have come up with, creating an ecosystem for e-RUPI Digital Wallet transactions. e-RUPI is the digital payment solution developed with the support of DFS (Department of Financial Services) and NHA (National Health Authority) and is powered by National Payments Corporation of India (NPCI). eZ-RUPI is more than just a standalone application; it is a comprehensive product suite that has been meticulously crafted to establish a thriving ecosystem for e-RUPI digital wallet transactions. Our aim is to revolutionize the way digital payments are made and bring about a seamless and secure experience for users.
-
-## Contents of eZ-₹UPI Product Suite 
-1. Mobile Application for Beneficiary
-2. Web Application for Beneficiary
-3. Mobile Application for Merchant
-4. Web Application for Bank
-5. Web Application for eZ-RUPI Admin
+## Contents of WiseVault Product Suite 
+1. Mobile Application WiseVault
+2. WiseVault Website
+3. Web Application for WiseVault Admin
 <img width="1394" alt="3" src="https://github.com/lokita282/CoDivas-AMEX/assets/80096027/e22246da-8bfb-45be-9f1a-50dc50ecb788">
 
 
