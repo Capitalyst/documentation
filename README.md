@@ -74,46 +74,25 @@ The choice of these technologies is based on factors such as their scalability, 
 
 The deployed links for our application are:-
 
-#### Frontend
-
-* Admin: https://secure-ez-rupi-admin.netlify.app/
-* Bank/Beneficiary: https://secure-ez-rupi.netlify.app/
-
-
-#### Backend
-* Deployed Server: https://ez-rupi-secure.onrender.com/api
+#### Website
+*Admin: 
+*Web Page:
 
 #### App
-* Beneficiary APK : https://bit.ly/ez-rupi-beneficiary
-* Merchant APK : https://bit.ly/ez-rupi-merchant
 
 #### Credentials to use the above applications
 
-1. Beneficiary (Khushi Mehta)
-    * User: 8850168258
-    * Pw: test1234
-
-2. Bank (HDFC Bank)
-    * User: 9732065755
-    * Pw: test1234
-
-3. Merchant (Education Category)
-    * User: 8591730678
-    * Pw: test1234
-
-4. Merchant (Housing Category)
-    * User: 8850188528
-    * Pw: test1234
-
-5. Admin
-    * User: 9999988888
-    * Pw: test1234
-
+1. Mobile App (User)
+    * User: 
+    * Pw: 
+2. Admin
+    * User: 
+    * Pw: 
 
 ## Features
 
-The key features of eZ-RUPI Application are:-
-- 4 interfaces : Bank, User, Admin and Merchant <br>
+The key features of WiseVault Application are:-
+- 3 interfaces : WebPage, Mobile App, Admin Panel <br>
     - Intuitive interfaces catering to different user roles and enabling seamless interactions.
 - Biometric Authentication <br>
     - Secure access to the application using biometric data like TouchID, FaceID or MPin
@@ -148,58 +127,16 @@ https://youtu.be/rUIeSQgWYZM
 
 ### Screenshots of Mobile App
 
-#### Beneficiary
-
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/e999a262-71fa-41e1-8b36-6089dd47482c"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/339880ae-e72f-4563-8d1c-60ff136ebf8c"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/550ed989-79a5-46cb-8d99-178bd129322b"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/f68f2cc6-a091-4cb2-99cd-f966beab0762"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/02ad6fe9-4c09-4497-b637-13099c02ff90"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/f55276bb-4fdf-445c-b7da-397b69627577"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/7008c797-6d90-4952-9530-5ba690d65fc1"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/711c7454-8262-4961-8be5-72356eaf0669"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/0fba52d1-c92b-4255-a67c-0cfacc7b4477"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/c0735a9c-14de-4d5a-bccd-081e4dedc10e"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/ee82ef83-6d7c-4f1b-8c18-a94817bf999f"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/565a6af5-32c0-4804-99d5-640ec4162958"  width="300" height="600">
-
-#### Merchant
-
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/fb76523d-ff79-4e38-a98e-727b51775df9"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/9dac7b1b-2102-46c2-a19f-f763a0873f1b"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/40209164-4fab-47b5-bfa4-da70f644628d"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/a8716f31-5d83-458d-aa6e-43d7d4db4936"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/af999030-3e50-4cc9-bf3b-c5d1162f116a"  width="300" height="600">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/0c083ea3-41f5-4b55-b70b-a9f6e5c2d0ce"  width="300" height="600">
-
 ### Screenshots of Web Application
 
-#### Beneficiary
+#### Web Page
 
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/0f13991f-e941-4a87-ab16-20c5be37a4a2"  width="500" height="300">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/2057fb27-0b55-442b-93c8-5e307ea9357c"  width="500" height="300">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/93e61e4d-1798-41d8-894a-4357a333c420"  width="500" height="300">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/8ff58fcb-eca2-466a-89e6-32a66976c286"  width="500" height="300">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/7e1f3725-4955-4b85-9053-7d1f5c3e4191"  width="500" height="300">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/9831ec2a-b280-4d31-bd65-ef24cc55278a"  width="500" height="300">
-
-#### Bank
-
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/80096027/3d2a5711-3682-44ec-a3b1-f80d5cb210fe"  width="500" height="300">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/5c022e47-d20d-4a25-a4cb-bd3fd69164a7"  width="500" height="300">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/ac3bbcc6-ac8a-4f1a-bd33-b48b54a4794c"  width="500" height="300">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/6451906b-e711-42ff-8472-d1307c337508"  width="500" height="300">
-
-#### Admin
-
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/e21f63d9-9097-458c-983f-4e07887eec60"  width="500" height="300">
-<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/852a672a-5114-4df5-984c-a4257813b7e9"  width="500" height="300">
-
+#### Admin Panel
 
 
 ## API Documentation
 
-Link to API Documentation : https://documenter.getpostman.com/view/16934299/2s93sabZGr
+Link to API Documentation : 
 
 ## Installation
 
