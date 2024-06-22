@@ -22,7 +22,7 @@ WiseVault is an Automated financial planning ecosystem that utilizes AI to assis
 ## Contents of WiseVault Product Suite 
 1. Mobile Application WiseVault
 2. WiseVault Website
-3. Web Application for WiseVault Admin
+3. WiseVault Admin-Panel
 <img width="1394" alt="3" src="https://github.com/Capitalyst/documentation/blob/main/assets/banner.png">
 
 
