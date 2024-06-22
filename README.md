@@ -1,7 +1,7 @@
 <div align="center">
   <div>
   <h1 fontSize="500">WiseVault Automated Financial Planning</h1>
-    <img height="150" src="[https://i.ibb.co/b188Vm7/logo.gif](https://raw.githubusercontent.com/Capitalyst/documentation/main/assets/Untitled%20design.png?token=GHSAT0AAAAAACTKVLGD3355XODEJRZYUH5MZTWVRYA)"  /><br>
+    <img height="150" src="https://raw.githubusercontent.com/Capitalyst/documentation/main/assets/logo.png?token=GHSAT0AAAAAACTKVLGDVQDZRAEHFEQ2K43UZTWVYHQ"  /><br><br>
   </div>
 </div>
 <p align="center">
