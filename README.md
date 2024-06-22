@@ -191,11 +191,9 @@ git clone https://github.com/lokita282/CoDivas-AMEX.git
 
 We would like to acknowledge the exceptional teamwork and collaboration among all the contributors involved in this project. The successful outcome of our endeavor is a testament to the collective effort and dedication of each team member.
 
-- [Khushi Mehta (Frontend, App)](https://github.com/khushimehta24)
-- [Lokita Varma (Frontend)](https://github.com/lokita282)
-- [Priyambi Hiran (App) ](https://github.com/priyambi)
-- [Rosita D'Mello (Backend)](https://github.com/rosita-dmello)
-- [Vidhita Pai (Backend, App)](https://github.com/vidhitapai)
+- [Prisha Mordiya](https://github.com/khushimehta24)
+- [Nandita Gupta](https://github.com/nandita27iitp)
+- [Jamith Kaur](https://github.com/priyambi)
 
 
 ## Acknowledgements
