@@ -56,12 +56,11 @@ WiseVault is an Automated financial planning ecosystem that utilizes AI to assis
 ## Technologies Used
 
 WiseVault is a versatile application that supports multiple devices and utilizes a diverse range of technology stacks.
-- React.JS
-- Express.JS
-- Node.JS
-- MongoDB
-- Flutter
-- Gemini 
+- Frontend: React.JS, Next.JS, Bootstrap, Material UI, Flutter
+- Backend: Node.JS
+- Database: MongoDB, Firebase
+- LLM Model for Chatbot
+- Yahoo Finance Data Reader Model : https://github.com/pydata/pandas-datareader/blob/main/pandas_datareader/yahoo/daily.py
 
 The choice of these technologies is based on factors such as their scalability, cross-platform compatibility, community support, availability of libraries and frameworks, and familiarity of the development team.
 
@@ -78,8 +77,8 @@ The deployed links for our application are:-
 #### Credentials to use the above applications
 
 1. Mobile App (User)
-    * User: 
-    * Pw: 
+    * User: testing
+    * Pw: test_1234
 2. Admin
     * User: 
     * Pw: 
