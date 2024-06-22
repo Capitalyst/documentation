@@ -23,7 +23,7 @@ WiseVault is an Automated financial planning ecosystem that utilizes AI to assis
 1. Mobile Application WiseVault
 2. WiseVault Website
 3. Web Application for WiseVault Admin
-<img width="1394" alt="3" src="https://github.com/Capitalyst/documentation/blob/main/assets/WiseVault%20Product%20Suite.png">
+<img width="1394" alt="3" src="https://github.com/Capitalyst/documentation/blob/main/assets/banner.png">
 
 
 ## Table of Contents
@@ -33,20 +33,16 @@ WiseVault is an Automated financial planning ecosystem that utilizes AI to assis
 - [Table of Contents](#table-of-contents)
 - [Technologies Used](#technologies-used)
 - [Deployed Links for Demo](#deployed-links-for-demo)
-    - [Frontend](#frontend)
-    - [Backend](#backend)
+    - [Website](#website)
     - [App](#app)
     - [Credentials to use the above applications](#credentials-to-use-the-above-applications)
 - [Features](#features)
 - [Demonstration \& Screenshots](#demonstration--screenshots)
   - [Link to video demonstration](#link-to-video-demonstration)
   - [Screenshots of Mobile App](#screenshots-of-mobile-app)
-    - [Beneficiary](#beneficiary)
-    - [Merchant](#merchant)
   - [Screenshots of Web Application](#screenshots-of-web-application)
-    - [Beneficiary](#beneficiary-1)
-    - [Bank](#bank)
-    - [Admin](#admin)
+    - [Web Page](#web-page)
+    - [Admin Panel](#admin-panel)
 - [API Documentation](#api-documentation)
 - [Installation](#installation)
   - [To run our React Project Locally](#to-run-our-react-project-locally)
@@ -70,7 +66,6 @@ WiseVault is a versatile application that supports multiple devices and utilizes
 The choice of these technologies is based on factors such as their scalability, cross-platform compatibility, community support, availability of libraries and frameworks, and familiarity of the development team.
 
 ## Deployed Links for Demo
-
 
 The deployed links for our application are:-
 
