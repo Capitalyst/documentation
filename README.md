@@ -10,6 +10,11 @@
 
 ## Project Description
 
+- Traditional financial planning applications possess complexities and lack of personalized advice. This involves difficulty in tracking finances, limited access to expert knowledge and inconsistent financial discipline.
+- The absence of sufficient educational resources further hampers users' understanding of financial concepts and informed decision-making.
+- These tools often lack features that provide consistent reminders and behavioral nudges necessary for maintaining financial goals.
+- The lack of engaging and motivational elements can lead to users losing interest and straying from their financial plans.
+
 Traditional Financial Planning Applications possess complexities and lack of Personalized Advice. This involves difficulty in Tracking Finances, limited Access to Expert Knowledge and Inconsistent Financial Discipline:**
 
 1. **Automated Analysis of Financial Data:**
