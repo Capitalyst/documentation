@@ -81,8 +81,8 @@ The deployed links for our application are:-
     * User: testing
     * Pw: test_1234
 2. Admin
-    * User: 
-    * Pw: 
+    * User: admin@mail.com
+    * Pw: admin
 
 ## Features
 
