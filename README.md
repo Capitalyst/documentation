@@ -33,8 +33,6 @@ WiseVault is an Automated financial planning ecosystem that utilizes AI to assis
 - [Table of Contents](#table-of-contents)
 - [Technologies Used](#technologies-used)
 - [Deployed Links for Demo](#deployed-links-for-demo)
-    - [Website](#website)
-    - [App](#app)
     - [Credentials to use the above applications](#credentials-to-use-the-above-applications)
 - [Features](#features)
 - [Demonstration \& Screenshots](#demonstration--screenshots)
@@ -68,12 +66,9 @@ The choice of these technologies is based on factors such as their scalability, 
 ## Deployed Links for Demo
 
 The deployed links for our application are:-
-
-#### Website
-*Admin: <br>
 *Web Page: https://wisevault.vercel.app/
 
-#### App
+*App: https://drive.google.com/drive/folders/1EHp-Wdygb-VWv0_iXl435xBkZvVESLBO?usp=sharing
 
 #### Credentials to use the above applications
 
@@ -112,7 +107,7 @@ The key features of WiseVault Application are:-
 
 ### Link to video demonstration 
 
-https://youtu.be/rUIeSQgWYZM
+https://www.canva.com/design/DAGI9A-cibE/lhMTW4khwlz8a7_222xAVg/watch?utm_content=DAGI9A-cibE&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ### Screenshots of Mobile App
 
@@ -133,10 +128,6 @@ https://youtu.be/rUIeSQgWYZM
 <img src="https://github.com/Capitalyst/documentation/blob/main/assets/1.png"  width="500" height="300"> <img src="https://github.com/Capitalyst/documentation/blob/main/assets/2.png"  width="500" height="300">
 <img src="https://github.com/Capitalyst/documentation/blob/main/assets/3.png"  width="500" height="300">
 
-## API Documentation
-
-Link to API Documentation : 
-
 ## Installation
 
 ### To run our React Project Locally 
@@ -145,16 +136,11 @@ Follow these steps to run a React project on your local machine:
 
 1. Clone the project repository: 
 ```bash
-git clone https://github.com/lokita282/CoDivas-AMEX.git
+git clone https://github.com/Capitalyst/web-page
 ```
-2. Navigate to the desired branch :
-   - For Admin Panel: `encrypt-admin`
-   - For Bank & Benefeciary: `encrypt-ezrupi`
-   - For Merchant: `encrypt-frontend-merchant`
-2. Navigate to the project directory: `cd project`
 3. Install project dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your web browser and visit: `http://localhost:3000`
+4. Start the development server: `npm run dev`
+5. Open your web browser and visit: `http://localhost:1573`
 
 You should now see the React project running in your browser. 
 
@@ -164,7 +150,7 @@ Follow these steps to run a React Native project on your local machine:
 
 1. Clone the project repository: `
 ```bash
-git clone https://github.com/lokita282/CoDivas-AMEX.git
+git clone
 ```
 2. Navigate to the branch:  `ExpoApp`
 2. Navigate to the project directory: `cd project`
@@ -177,19 +163,6 @@ git clone https://github.com/lokita282/CoDivas-AMEX.git
    - For iOS: `npx react-native run-ios`
 
 The React Native project should now start building and running on your device or emulator. You will see the app running and any changes made to the code will automatically update in real-time.
-
-### To run our Node.JS Project Locally 
-
-Follow these steps to run our Node.JS project on your local machine:
-1. Clone the project repository: 
-```bash
-git clone https://github.com/lokita282/CoDivas-AMEX.git
-```
-2. Navigate to the branch: `encrypted-backend`
-3. Make sure you have set up the development environment by installing Node.js
-4. Install project dependencies: `npm install`
-5. Connect to database by creating a .env file, replace connection with URI in .env
-6. Execute the command `npm start`
 
 ## Contributors
 
