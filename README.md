@@ -116,9 +116,29 @@ https://youtu.be/rUIeSQgWYZM
 
 ### Screenshots of Mobile App
 
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-23%20at%2021.25.39.png"  width="300" height="600"> <img src="https://github.com/Capitalyst/documentation/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-23%20at%2021.25.17.png"  width="300" height="600"> <img src="https://github.com/Capitalyst/documentation/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-23%20at%2021.33.37.png"  width="300" height="600"> <img src="https://github.com/Capitalyst/documentation/blob/main/assets/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-23%20at%2021.40.41.png"  width="300" height="600"> <img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/02ad6fe9-4c09-4497-b637-13099c02ff90"  width="300" height="600">
+<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/f55276bb-4fdf-445c-b7da-397b69627577"  width="300" height="600">
+<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/7008c797-6d90-4952-9530-5ba690d65fc1"  width="300" height="600">
+<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/711c7454-8262-4961-8be5-72356eaf0669"  width="300" height="600">
+<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/0fba52d1-c92b-4255-a67c-0cfacc7b4477"  width="300" height="600">
+<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/c0735a9c-14de-4d5a-bccd-081e4dedc10e"  width="300" height="600">
+<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/ee82ef83-6d7c-4f1b-8c18-a94817bf999f"  width="300" height="600">
+<img src="https://github.com/lokita282/CoDivas-AMEX/assets/79246912/565a6af5-32c0-4804-99d5-640ec4162958"  width="300" height="600">
+
 ### Screenshots of Web Application
 
 #### Web Page
+
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(1).png"  width="500" height="300">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(2).png"  width="300" height="600">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(3).png"  width="300" height="600">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(4).png"  width="300" height="600">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(5).png"  width="300" height="600">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(6).png"  width="300" height="600">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(7).png"  width="300" height="600">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(8).png"  width="300" height="600">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(9).png"  width="300" height="600">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(10).png"  width="300" height="600">
 
 #### Admin Panel
 
