@@ -59,6 +59,7 @@ WiseVault is a versatile application that supports multiple devices and utilizes
 - Frontend: React.JS, Next.JS, Bootstrap, Material UI, Flutter
 - Backend: Node.JS
 - Database: MongoDB, Firebase
+- Postman
 - LLM Model for Chatbot
 - Yahoo Finance Data Reader Model : https://github.com/pydata/pandas-datareader/blob/main/pandas_datareader/yahoo/daily.py
 
@@ -70,7 +71,7 @@ The deployed links for our application are:-
 
 #### Website
 *Admin: 
-*Web Page:
+*Web Page: https://wisevault.vercel.app/
 
 #### App
 
