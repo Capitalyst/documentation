@@ -92,19 +92,19 @@ The key features of WiseVault Application are:-
 - Firebase Authentication <br>
     - Employs state-of-the-art encryption and utilizes Google Authentication for an added layer of protection. With secure login features, including biometric authentication and two-factor verification via Google Auth, you can rest assured that your investment, budgeting, and expense tracking information is protected.
 - Budgeting & Goal Setting <br>
-    - 
+    - Comprehensive dashboard for tracking expenditures, remaining budget, and financial goals, along with options to manually input expenses or scan QR codes. Users receive weekly spending summaries, alerts for overspending, and personalized budgeting advice through machine learning. Additionally, the app allows goal setting with progress tracking and provides dynamic budget adjustments based on spending habits.
 - Analysis using Charts and Graphs <br>
-    - 
+    - Features charts and graphs to analyze spending trends, displaying monthly or weekly expenditures through line and bar charts. Users can view budget allocation via pie charts and progress bars, and track financial goals with progress charts and milestone indicators. Additionally, comparative and predictive charts offer insights into spending patterns and future expense forecasts.
 - User Rewards <br>
-    - 
+    - Features a coin system where users earn rewards by reading modules, correctly answering MCQs, and completing tasks. These coins can be accumulated and redeemed for various benefits. This incentivizes users to engage with the content and improve their financial literacy.
 - Learning Modules<br>
-    - 
+    - Offers interactive learning modules on various financial topics, including budgeting, investing, and retirement planning. Users can read through these modules, participate in quizzes, and complete tasks to reinforce their knowledge. Successful completion of these activities rewards users with coins, promoting continuous learning and engagement.
 - AI Personal Assistant<br>
-    - 
+    - Incorporates an AI personal assistant powered by a fine-tuned Gemini API, enabling a unique chatbot feature for addressing financial questions. Users can interact with the chatbot to receive personalized advice, insights on financial queries, and guidance on managing their finances effectively.
 - Investment Portfolio<br>
-    - 
+    - Includes a comprehensive investment portfolio feature where users can manage and track their investments. It provides functionalities such as adding, editing, and categorizing investments, viewing real-time portfolio performance metrics, and receiving personalized insights and recommendations based on investment goals and risk tolerance.
 - Retirement Planning<br>
-    - 
+    - Offers robust retirement planning tools, allowing users to set retirement goals based on desired age, income needs, and savings targets. It provides calculators to estimate retirement savings required, offers investment strategies tailored to retirement goals, and continuously monitors progress towards achieving those goals, providing alerts and adjustments as needed to ensure financial security in retirement.
 - Multicurrency System<br>
     - Support for multi currencies to cater to diverse user preferences and needs.
 
