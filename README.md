@@ -70,7 +70,7 @@ The choice of these technologies is based on factors such as their scalability, 
 The deployed links for our application are:-
 
 #### Website
-*Admin: 
+*Admin: <br>
 *Web Page: https://wisevault.vercel.app/
 
 #### App
