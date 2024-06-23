@@ -89,30 +89,24 @@ The deployed links for our application are:-
 The key features of WiseVault Application are:-
 - 3 interfaces : WebPage, Mobile App, Admin Panel <br>
     - Intuitive interfaces catering to different user roles and enabling seamless interactions.
-- Biometric Authentication <br>
-    - Secure access to the application using biometric data like TouchID, FaceID or MPin
-- Categorical Coupons <br>
+- Firebase Authentication <br>
+    - Employs state-of-the-art encryption and utilizes Google Authentication for an added layer of protection. With secure login features, including biometric authentication and two-factor verification via Google Auth, you can rest assured that your investment, budgeting, and expense tracking information is protected.
+- Budgeting & Goal Setting <br>
     - Organized and categorized coupons for convenient browsing and selection in categories like Agriculture, Education, Healtcare, Transportation etc.
-- Generate e-RUPI <br>
+- Analysis using Charts and Graphs <br>
+    - Organized and categorized coupons for convenient browsing and selection in categories like Agriculture, Education, Healtcare, Transportation etc.
+- User Rewards <br>
     - Generate digital vouchers for efficient and secure transactions, either one at a time or multiple.
-- Performing Utility Transactions<br>
+- Learning Modules<br>
     - Ability to carry out various utility transactions like paying Electricity Bills within the application.
-- QR Scanning<br>
+- AI Personal Assistant<br>
     - Scan QR codes to quickly redeem the vouchers.
-- SMS Scanning<br>
+- Investment Portfolio<br>
     - Scan and extract relevant information from SMS messages to redeem voucher.
-- Encrypt/Decrypt in API Calls<br>
+- Retirement Planning<br>
     - Ensure data security by encrypting and decrypting data during API calls.
-- Activity Log<br>
-    - Track and monitor user activities and system actions for audit and accountability purposes.
-- Government Schemes<br>
-    - Integration of government schemes and programs for seamless participation and benefit distribution.
-- Transaction History<br>
-    - Access and review comprehensive transaction history for transparency and record-keeping.
-- Statistical Insights<br>
-    - Generate insightful statistics and analytics for informed decision-making and trend analysis.
-- Multilingual<br>
-    - Support for multiple languages to cater to diverse user preferences and needs.
+- Multicurrency System<br>
+    - Support for multi currencies to cater to diverse user preferences and needs.
 
 ## Demonstration & Screenshots
 
