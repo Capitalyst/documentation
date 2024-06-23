@@ -41,11 +41,9 @@ WiseVault is an Automated financial planning ecosystem that utilizes AI to assis
   - [Screenshots of Web Application](#screenshots-of-web-application)
     - [Web Page](#web-page)
     - [Admin Panel](#admin-panel)
-- [API Documentation](#api-documentation)
 - [Installation](#installation)
   - [To run our React Project Locally](#to-run-our-react-project-locally)
   - [To run our React Native Project Locally](#to-run-our-react-native-project-locally)
-  - [To run our Node.JS Project Locally](#to-run-our-nodejs-project-locally)
 - [Contributors](#contributors)
 - [Acknowledgements](#acknowledgements)
 
