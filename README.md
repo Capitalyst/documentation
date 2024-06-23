@@ -129,16 +129,11 @@ https://youtu.be/rUIeSQgWYZM
 
 #### Web Page
 
-<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(1).png"  width="500" height="300">
-<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(2).png"  width="300" height="600">
-<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(3).png"  width="300" height="600">
-<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(4).png"  width="300" height="600">
-<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(5).png"  width="300" height="600">
-<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(6).png"  width="300" height="600">
-<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(7).png"  width="300" height="600">
-<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(8).png"  width="300" height="600">
-<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(9).png"  width="300" height="600">
-<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(10).png"  width="300" height="600">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(1).png"  width="500" height="300"> <img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(2).png"  width="500" height="300">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(3).png"  width="500" height="300"> <img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(4).png"  width="500" height="300">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(5).png"  width="500" height="300"> <img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(6).png"  width="500" height="300">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(7).png"  width="500" height="300"> <img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(8).png"  width="500" height="300">
+<img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(9).png"  width="500" height="300"> <img src="https://github.com/Capitalyst/documentation/blob/main/assets/wisevault.vercel.app_(Nest%20Hub%20Max)%20(10).png"  width="500" height="300">
 
 #### Admin Panel
 
