@@ -192,7 +192,7 @@ We would like to acknowledge the exceptional teamwork and collaboration among al
 
 ## Acknowledgements
 
-We would like to express our heartfelt gratitude to American Express for providing us with the incredible opportunity to participate in their prestigious hackathon. This platform has allowed us to showcase our skills, creativity, and innovative ideas in the realm of technology and finance. We would also like to extend our sincere appreciation to our mentors, Monica and Sneha, for her unwavering support, guidance, and mentoring throughout this hackathon. Her expertise and insights have been invaluable in shaping our ideas, refining our approach, and pushing us to deliver our best. We are honored to have been a part of this hackathon and look forward to continuing our journey towards creating impactful solutions in the world of technology and finance.
+We would like to express our heartfelt gratitude to American Express for providing us with the incredible opportunity to participate in their prestigious hackathon. This platform has allowed us to showcase our skills, creativity, and innovative ideas in the realm of technology and finance. We would also like to extend our sincere appreciation to our mentors, Monica and Sneha ma'am, for their unwavering support, guidance, and mentoring throughout this hackathon. Their expertise and insights have been invaluable in shaping our ideas, refining our approach, and pushing us to deliver our best. We are honored to have been a part of this hackathon and look forward to continuing our journey towards creating impactful solutions in the world of technology and finance.
 
 
 ---
