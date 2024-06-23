@@ -142,33 +142,13 @@ git clone https://github.com/Capitalyst/web-page
 
 You should now see the React project running in your browser. 
 
-### To run our React Native Project Locally
-
-Follow these steps to run a React Native project on your local machine:
-
-1. Clone the project repository: `
-```bash
-git clone
-```
-2. Navigate to the branch:  `ExpoApp`
-2. Navigate to the project directory: `cd project`
-3. Install project dependencies: `npm install`
-4. Make sure you have set up the development environment by installing Node.js and React Native CLI.
-5. Connect your Android or iOS device to your computer, or set up an emulator/simulator.
-6. Start the development server: `npx react-native start`
-7. In a new terminal window, run the project on the connected device or emulator:
-   - For Android: `npx react-native run-android`
-   - For iOS: `npx react-native run-ios`
-
-The React Native project should now start building and running on your device or emulator. You will see the app running and any changes made to the code will automatically update in real-time.
-
 ## Contributors
 
 We would like to acknowledge the exceptional teamwork and collaboration among all the contributors involved in this project. The successful outcome of our endeavor is a testament to the collective effort and dedication of each team member.
 
-- [Prisha Mordiya](https://github.com/khushimehta24)
+- [Prisha Mordiya](https://github.com/Prisha-Mordia)
 - [Nandita Gupta](https://github.com/nandita27iitp)
-- [Jamith Kaur](https://github.com/priyambi)
+- [Jamith Kaur](https://github.com/JKamith)
 
 
 ## Acknowledgements
