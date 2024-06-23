@@ -92,19 +92,19 @@ The key features of WiseVault Application are:-
 - Firebase Authentication <br>
     - Employs state-of-the-art encryption and utilizes Google Authentication for an added layer of protection. With secure login features, including biometric authentication and two-factor verification via Google Auth, you can rest assured that your investment, budgeting, and expense tracking information is protected.
 - Budgeting & Goal Setting <br>
-    - Organized and categorized coupons for convenient browsing and selection in categories like Agriculture, Education, Healtcare, Transportation etc.
+    - 
 - Analysis using Charts and Graphs <br>
-    - Organized and categorized coupons for convenient browsing and selection in categories like Agriculture, Education, Healtcare, Transportation etc.
+    - 
 - User Rewards <br>
-    - Generate digital vouchers for efficient and secure transactions, either one at a time or multiple.
+    - 
 - Learning Modules<br>
-    - Ability to carry out various utility transactions like paying Electricity Bills within the application.
+    - 
 - AI Personal Assistant<br>
-    - Scan QR codes to quickly redeem the vouchers.
+    - 
 - Investment Portfolio<br>
-    - Scan and extract relevant information from SMS messages to redeem voucher.
+    - 
 - Retirement Planning<br>
-    - Ensure data security by encrypting and decrypting data during API calls.
+    - 
 - Multicurrency System<br>
     - Support for multi currencies to cater to diverse user preferences and needs.
 
